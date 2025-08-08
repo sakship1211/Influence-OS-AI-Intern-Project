@@ -1,0 +1,26 @@
+{
+    "post": "\ud83d\ude80 Stepping into the world of Data Science has been one of the most exciting journeys...",
+    "calendar": [
+        {
+            "date": "2025-08-10",
+            "type": "Text Post",
+            "title": "Top 5 Python Tips for Data Analysts"
+        },
+        {
+            "date": "2025-08-12",
+            "type": "Carousel",
+            "title": "What is AI? Explained Simply"
+        },
+        {
+            "date": "2025-08-14",
+            "type": "Article",
+            "title": "Breaking into Data Science as a Fresher"
+        }
+    ],
+    "analytics": {
+        "views": 1476,
+        "likes": 287,
+        "comments": 18,
+        "shares": 15
+    }
+}

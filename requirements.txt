@@ -1,0 +1,12 @@
+# Required packages
+
+
+
+
+# Python dependencies
+openai>=1.0.0
+tiktoken
+notebook
+
+#  for LangChain integration
+langchain>=0.2.0
